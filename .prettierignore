@@ -1,0 +1,8 @@
+.husky
+.next
+node_modules
+public
+next.config.js
+package.json
+pnpm-lock.yaml
+README.md
