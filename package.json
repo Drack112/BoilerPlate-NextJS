@@ -42,7 +42,7 @@
     "@storybook/preset-typescript": "^3.0.0",
     "@storybook/react": "6.4.17",
     "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
+    "@testing-library/react": "^14.0.0",
     "@types/jest": "^29.4.0",
     "@types/styled-components": "^5.1.26",
     "@typescript-eslint/eslint-plugin": "^5.49.0",
